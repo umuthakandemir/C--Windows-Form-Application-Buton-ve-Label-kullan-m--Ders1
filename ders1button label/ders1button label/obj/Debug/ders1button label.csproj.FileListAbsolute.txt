@@ -1,0 +1,11 @@
+C:\Users\Umut Hakan Demir\source\repos\ders1button label\ders1button label\bin\Debug\ders1button label.exe.config
+C:\Users\Umut Hakan Demir\source\repos\ders1button label\ders1button label\bin\Debug\ders1button label.exe
+C:\Users\Umut Hakan Demir\source\repos\ders1button label\ders1button label\bin\Debug\ders1button label.pdb
+C:\Users\Umut Hakan Demir\source\repos\ders1button label\ders1button label\obj\Debug\ders1button label.csproj.AssemblyReference.cache
+C:\Users\Umut Hakan Demir\source\repos\ders1button label\ders1button label\obj\Debug\ders1button label.csproj.SuggestedBindingRedirects.cache
+C:\Users\Umut Hakan Demir\source\repos\ders1button label\ders1button label\obj\Debug\ders1button_label.Properties.Resources.resources
+C:\Users\Umut Hakan Demir\source\repos\ders1button label\ders1button label\obj\Debug\ders1button label.csproj.GenerateResource.cache
+C:\Users\Umut Hakan Demir\source\repos\ders1button label\ders1button label\obj\Debug\ders1button label.csproj.CoreCompileInputs.cache
+C:\Users\Umut Hakan Demir\source\repos\ders1button label\ders1button label\obj\Debug\ders1button label.exe
+C:\Users\Umut Hakan Demir\source\repos\ders1button label\ders1button label\obj\Debug\ders1button label.pdb
+C:\Users\Umut Hakan Demir\source\repos\ders1button label\ders1button label\obj\Debug\ders1button_label.Form1.resources
